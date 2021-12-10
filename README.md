@@ -1,9 +1,9 @@
 # Mindful Homework WebApp
 Mindful is a webapp that is designed to help students schedule their time better for homework. Our approach streamlines the homework session experience. 
 
-We use the Canvas API to pull a students assignments and present them in a minimal distraction free interface.
+We use the Canvas API to pull a students assignments and present them in a minimal, distraction-free interface.
 
-Our goal is to help students be more mindful about how they do their homework. To facilitate this goal we build a dedicated mindfulness page to help them relax and take meaningful study breaks.
+Our goal is to help students be more mindful about how they do their homework. To facilitate this goal we built a dedicated mindfulness page to help them relax and take meaningful study breaks.
 
 
 ## Getting Started
